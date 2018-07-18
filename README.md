@@ -1,2 +1,2 @@
-# VitualBoard
+# VirtualBoard
 Qt5 VirtualBoard
